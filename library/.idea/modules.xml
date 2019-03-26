@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../falt.iml" filepath="$PROJECT_DIR$/../falt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../football/football.iml" filepath="$PROJECT_DIR$/../football/football.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library.iml" filepath="$PROJECT_DIR$/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../library_happyWealth/library_happyWealth.iml" filepath="$PROJECT_DIR$/../library_happyWealth/library_happyWealth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../witpark/witpark.iml" filepath="$PROJECT_DIR$/../witpark/witpark.iml" />
+    </modules>
+  </component>
+</project>

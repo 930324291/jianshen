@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="avoscloud-sdk-4.7.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.leancloud.android/avoscloud-sdk/4.7.9/90c0d7a54d478dbab9285a8d0dedfd3a3b7fd605/avoscloud-sdk-4.7.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.leancloud.android/avoscloud-sdk/4.7.9/9552e775aca6ed2534c9f3afc8132e7dbadfc39b/avoscloud-sdk-4.7.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

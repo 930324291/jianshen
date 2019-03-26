@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "F:\\mjwork\\AppKit\\library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-si\\values-si.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 100,
+                    "endOffset": 151
+                },
+                "from": {
+                    "file": "C:\\Users\\nicai\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\0c2ba5277e5fb9865c53761ff68a962f\\res\\values-si\\values-si.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 100,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    }
+]
